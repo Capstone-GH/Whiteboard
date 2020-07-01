@@ -3,6 +3,6 @@
 A collaborative whiteboard web app for sharing between users through drawing
 
 Contributors:
-Karol Porcioncula
+Karolina Porcioncula
 Naomi Ochoa
 Veronica Minciuna
